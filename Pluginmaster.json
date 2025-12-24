@@ -1,0 +1,49 @@
+[
+  {
+    "Author": "YouShu",
+    "Name": "Macro Redirection",
+    "Description": "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
+    "Punchline": "重定向技能施法目标，鼠标指哪打哪！（仅支持在线安装）",
+    "InternalName": "MacroRedirection",
+    "AssemblyVersion": "1.0.0.5",
+    "RepoUrl": "https://github.com/YouShux/Macro-Redirection",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
+    "ImageUrls": [],
+    "Tags": ["Mouseover", "Macro", "Target", "IPC", "Combat"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
+    "Changelog": "修复自带的预设无法导入的问题！",
+    
+    "LastUpdate": 20251220
+  },
+  {
+    "Author": "YouShu",
+    "Name": "Omni Toolbox",
+    "Description": "支持物品价格查询（跨服/税后）、商店购买与兑换位置查找（含坐标与传送）、库存追踪（背包/雇员/陆行鸟）、\n食物/药品期望计算、物品监控预警（弹窗/聊天），以及坐骑/宠物/发型/绘画作品的即时预览等等。",
+    "Punchline": "物品价格查询、库存查询、商店兑换位置、传送、解锁预览图片等功能。（仅支持在线安装）",
+    "InternalName": "OmniToolbox",
+    "AssemblyVersion": "1.0.0.2",
+    "RepoUrl": "https://github.com/YouShux/OmniToolbox",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.jpg",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(1).png",
+      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(2).png",
+      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(3).png",
+      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(4).png",
+      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(5).png"
+    ],
+    "Tags": ["Market", "Price", "Inventory", "Vendor", "Preview", "Tool", "Teleport"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
+    "Changelog": "首个版本发布！",
+    "LastUpdate": 20251225
+  }
+]
