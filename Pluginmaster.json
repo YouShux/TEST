@@ -30,13 +30,12 @@
     "RepoUrl": "https://github.com/YouShux/OmniToolbox",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "IconUrl": "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.jpg",
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/images/icon.png",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(1).png",
-      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(2).png",
-      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(3).png",
-      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(4).png",
-      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(5).png"
+      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/images/image1.png",
+      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/images/image2.png",
+      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/images/image3.png",
+      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/images/image4.png"
     ],
     "Tags": ["Market", "Price", "Inventory", "Vendor", "Preview", "Tool", "Teleport"],
     "IsHide": false,
