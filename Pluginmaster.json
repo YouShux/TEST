@@ -9,13 +9,13 @@
     "RepoUrl": "https://github.com/YouShux/Macro-Redirection",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Macro%20Redirection/cursor_hr1.png",
     "ImageUrls": [],
     "Tags": ["Mouseover", "Macro", "Target", "IPC", "Combat"],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
     "Changelog": "修复自带的预设无法导入的问题！",
     
     "LastUpdate": 20251220
@@ -30,19 +30,19 @@
     "RepoUrl": "https://github.com/YouShux/OmniToolbox",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.jpg",
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.jpg",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(1).png",
-      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(2).png",
-      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(3).png",
-      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(4).png",
-      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(5).png"
+      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(1).png",
+      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(2).png",
+      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(3).png",
+      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(4).png",
+      "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(5).png"
     ],
     "Tags": ["Market", "Price", "Inventory", "Vendor", "Preview", "Tool", "Teleport"],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/TEST/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
     "Changelog": "首个版本发布！",
     "LastUpdate": 20251225
   }
